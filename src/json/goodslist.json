@@ -1,0 +1,103 @@
+{
+    "message": [ 
+        {
+            "add_time": "2019-06-28T17:00:58.000Z",
+            "click": 0,
+            "id": 87,
+            "img_url": "http://img01.hua.com/uploadpic/newpic/9012451.jpg_220x240.jpg",
+            "market_price": 188,
+            "sell_price": 88,
+            "stock_quantity": 7,
+            "title": "韩式系列/公主的假日--戴安娜玫瑰11枝、白色洋桔梗5枝、大叶尤加利10枝",
+            "zhaiyao": ""
+        },{
+            "add_time": "2019-06-28T17:00:58.000Z",
+            "click": 0,
+            "id": 88,
+            "img_url": "http://img01.hua.com/uploadpic/newpic/9012462.jpg",
+            "market_price": 188,
+            "sell_price": 88,
+            "stock_quantity": 8,
+            "title": "韩式花篮/平淡岁月--苏醒玫瑰13枝，蓝紫色绣球1枝，香槟洋桔梗5枝",
+            "zhaiyao": ""
+        },
+        {
+            "add_time": "2019-06-28T17:19:30.000Z",
+            "click": 4,
+            "id": 89,
+            "img_url": "http://img01.hua.com/uploadpic/newpic/9012089.jpg",
+            "market_price": 199,
+            "sell_price": 99,
+            "stock_quantity": 9,
+            "title": "爱在心头--玫瑰50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+            "zhaiyao": ""
+        },
+         {
+            "add_time": "2019-06-28T17:19:30.000Z",
+            "click": 4,
+            "id": 90,
+            "img_url": "http://img01.hua.com/uploadpic/newpic/9012223.jpg",
+            "market_price": 199,
+            "sell_price": 99,
+            "stock_quantity": 10,
+            "title": "我只钟情你--香槟玫瑰11枝、白色小雏菊3枝",
+            "zhaiyao": ""
+        },
+        {
+           "add_time": "2019-06-28T17:19:30.000Z",
+           "click": 4,
+           "id": 91,
+           "img_url": "http://img01.hua.com/uploadpic/newpic/9012446.jpg",
+           "market_price": 199,
+           "sell_price": 99,
+           "stock_quantity": 11,
+           "title": "满天星-浅粉--满天晨星，只因有你",
+           "zhaiyao": ""
+       },
+       {
+          "add_time": "2019-06-28T17:19:30.000Z",
+          "click": 4,
+          "id": 92,
+          "img_url": "http://img01.hua.com/uploadpic/newpic/9010964.jpg",
+          "market_price": 199,
+          "sell_price": 99,
+          "stock_quantity": 11,
+          "title": "天使之祈--精品康乃馨礼盒,粉色康乃馨19枝，勿忘我适量",
+          "zhaiyao": ""
+      },
+      {
+         "add_time": "2019-06-28T17:19:30.000Z",
+         "click": 4,
+         "id": 93,
+         "img_url": "http://img01.hua.com/uploadpic/newpic/9010904.jpg",
+         "market_price": 199,
+         "sell_price": 99,
+         "stock_quantity": 11,
+         "title": "青青子衿--白色多头香水百合6枝",
+         "zhaiyao": ""
+     },
+     {
+        "add_time": "2019-06-28T17:19:30.000Z",
+        "click": 4,
+        "id": 94,
+        "img_url": "http://img01.hua.com/uploadpic/newpic/9092149.jpg",
+        "market_price": 199,
+        "sell_price": 99,
+        "stock_quantity": 11,
+        "title": "一缕清香--向日葵3枝，白色洋桔梗0.5扎",
+        "zhaiyao": ""
+    },
+    {
+       "add_time": "2019-06-28T17:19:30.000Z",
+       "click": 4,
+       "id": 95,
+       "img_url": "http://img01.hua.com/uploadpic/newpic/9012278.jpg",
+       "market_price": 199,
+       "sell_price": 99,
+       "stock_quantity": 11,
+       "title": "春韵--白色紫罗兰2扎、粉色洋桔梗1扎",
+       "zhaiyao": ""
+   }
+    ],
+    "status": 0
+}
